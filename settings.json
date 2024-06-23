@@ -158,7 +158,7 @@
             "disableEmbedPermissionCheck": false
         },
         "FakeProfileThemes": {
-            "enabled": false
+            "enabled": true
         },
         "FavoriteEmojiFirst": {
             "enabled": false
@@ -497,7 +497,9 @@
             "enabled": false
         },
         "USRBG": {
-            "enabled": false
+            "enabled": true,
+            "voiceBackground": true,
+            "nitroFirst": true
         },
         "ValidReply": {
             "enabled": false
@@ -566,6 +568,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1719153827873
+        "settingsSyncVersion": 1719154670859
     }
 }
